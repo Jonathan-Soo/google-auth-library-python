@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-auth/#history
 
+### [2.6.7](https://github.com/googleapis/google-auth-library-python/compare/v2.6.6...v2.6.7) (2022-05-04)
+
+
+### Bug Fixes
+
+* validate urls for external accounts ([#1031](https://github.com/googleapis/google-auth-library-python/issues/1031)) ([61b1f15](https://github.com/googleapis/google-auth-library-python/commit/61b1f1561ad6c3ddf4540143171351e53ff50f99))
+
 ### [2.6.6](https://github.com/googleapis/google-auth-library-python/compare/v2.6.5...v2.6.6) (2022-04-21)
 
 
